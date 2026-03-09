@@ -1,8 +1,8 @@
-**Privacy Policy**
+# Nuclideon Privacy Policy
 
-**Last updated: March 2026**
+Last updated: March 9th, 2026
 
-# Overview
+## Overview
 
 This Privacy Policy explains how Nuclideon Pty Ltd (“Nuclideon”, “we”,
 “us” or “our”) collects, uses, discloses, stores, and otherwise handles
@@ -10,7 +10,7 @@ Personal Information when you use our Websites and Services, or interact
 with us (for example, requesting a demo, purchasing a subscription, or
 contacting support).
 
-# Scope
+## Scope
 
 We are committed to protecting your privacy and complying with
 applicable privacy laws, including the Australian Privacy Principles
@@ -20,7 +20,7 @@ applicable, the Notifiable Data Breaches (NDB) scheme.
 You can learn more about the APPs from the Office of the Australian
 Information Commissioner (OAIC).
 
-# Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 We reserve the right to make changes to this Privacy Policy at any time
 and for any reason. We will alert you about any changes by updating the
@@ -45,7 +45,7 @@ We keep a public revision history of certain legal documents at
 https://github.com/Nuclideon/legal; if there is any conflict, the
 version published on the relevant Nuclideon website or service prevails.
 
-# Definitions
+## Definitions
 
 - **Personal Information** means information or an opinion about an
   identified individual, or an individual who is reasonably
@@ -64,7 +64,7 @@ By using our Websites and Services, or by otherwise providing
 information to us, you acknowledge this Privacy Policy applies as
 described in the Scope and Controller vs Processor sections below.
 
-# Our role (Controller vs Processor)
+## Our role (Controller vs Processor)
 
 Depending on how you interact with Nuclideon, we may process Personal
 Information as a **controller** (we decide why and how Personal
@@ -91,9 +91,9 @@ In particular:
   or controlled by Nuclideon. This Privacy Policy does not apply to
   those third parties.
 
-# Information We Collect
+## Information We Collect
 
-## Personal Information you provide
+### Personal Information you provide
 
 We may collect Personal Information you provide directly to us, such as
 your name, business contact details (email address, phone number),
@@ -101,14 +101,14 @@ organisation, job title, and any other information you choose to provide
 when you create an account, request a demo or quote, purchase a
 subscription, contact support, or otherwise communicate with us.
 
-## How we collect information
+### How we collect information
 
 We collect Personal Information directly from you, automatically when
 you use our Websites and Services (for example, through logs and
 cookies), and sometimes from third parties (for example, analytics,
 advertising, or referral partners) where permitted by law.
 
-## Accounts and access
+### Accounts and access
 
 Some parts of our Websites and Services can be used without providing
 Personal Information. However, to access certain features (such as
@@ -116,7 +116,7 @@ account administration, subscriptions, or customer support), you may
 need to provide personally identifiable information such as a username
 and password, or information used to help recover your account.
 
-## Typical service data
+### Typical service data
 
 In addition to the categories described above, when you use our services
 (including udCloud and udServer), we may collect or receive certain
@@ -161,7 +161,7 @@ a processor (for example, **Customer Content** and end-user data).
   Information, we generally process it on the customer’s instructions as
   a processor/service provider.
 
-## Additional information
+### Additional information
 
 - You are under no obligation to provide Personal Information; however,
   not providing it may prevent you from using certain features of the
@@ -170,7 +170,7 @@ a processor (for example, **Customer Content** and end-user data).
 - Our Websites and Services are not directed at children under 18 and we
   do not knowingly collect Personal Information from children under 18.
 
-## Sensitive Information
+### Sensitive Information
 
 Sensitive Information is defined in the Privacy Act to include
 information or opinion about such things as an individual's racial or
@@ -194,7 +194,7 @@ accordance with applicable law.
 - We may also use or disclose Sensitive Information where required or
   authorised by law.
 
-## Usage data, cookies and tracking
+### Usage data, cookies and tracking
 
 Usage Information is certain information we may automatically collect
 regarding your visits to and use of our Websites and Services.
@@ -218,7 +218,7 @@ law, we will ask for your consent before using non-essential cookies
 preferences at any time using our cookie settings (or by contacting us
 at info@nuclideon.com).
 
-### Technologies We Use
+#### Technologies We Use
 
 - **Cookies:** Cookies are small information text files that are stored
   on your computer hard drive by your web browser when you use our
@@ -256,7 +256,7 @@ You can manage cookies through your browser settings and, where
 available, through any cookie consent tools we provide. You may also
 direct inquiries regarding cookie preferences to info@nuclideon.com.
 
-### Do Not Track (DNT) signals
+#### Do Not Track (DNT) signals
 
 California law requires that operators of websites and online services
 disclose how they respond to a DNT signal and whether other third
@@ -269,7 +269,7 @@ because third-party tools may not respond to them, our Websites and
 Services may not respond to DNT signals. You can manage tracking through
 our cookie settings and your browser/device controls.
 
-## Payment and billing information
+### Payment and billing information
 
 Payment card details are handled by our payment processor(s) (for
 example, Stripe). We do not intentionally store full payment card
@@ -277,7 +277,7 @@ numbers on our systems. We may store billing and transaction records
 (such as invoices, amounts, and payment status) for accounting, tax and
 audit purposes.
 
-## Information from other sources
+### Information from other sources
 
 We may also obtain information about you from other sources
 or retain third party services to operate our Websites and Services and
@@ -293,7 +293,7 @@ and where applicable group/role claims).
 
 **We do not receive your password** when you authenticate via OIDC/SSO.
 
-# How We Use Information
+## How We Use Information
 
 We may use Personal Information for the following purposes:
 
@@ -322,7 +322,7 @@ We may use Personal Information for the following purposes:
 - To manage corporate governance activities such as audits, reporting,
   and business continuity planning.
 
-## Legal Bases (EEA/UK Only)
+### Legal Bases (EEA/UK Only)
 
 If you are from the European Economic Area (“EEA”), our legal basis for
 collecting and using the Personal Information described above will
@@ -349,7 +349,7 @@ If we process Personal Information in reliance on your consent, you may
 withdraw your consent at any time. This will not affect processing that
 occurred before you withdrew consent.
 
-# How We Share Information
+## How We Share Information
 
 We may share Personal Information with third parties in the ordinary
 course of operating our Websites and Services (for example, for hosting,
@@ -360,7 +360,7 @@ permitted to access Personal Information only as needed to perform
 services for us (or, where applicable, for our customers) consistent
 with this Privacy Policy.
 
-## Subprocessors and Service Providers
+### Subprocessors and Service Providers
 
 **Amazon Web Services (AWS)** is a key subprocessor we use to host and
 operate our cloud services (including udCloud) and to provide underlying
@@ -419,7 +419,7 @@ section.
   request for disclosure, and we will seek to limit disclosure to what
   is legally required.
 
-# International Transfers
+## International Transfers
 
 We may store or process Personal Information in Australia and in other
 countries where we or our service providers operate. Where Personal
@@ -440,7 +440,7 @@ EEA. If your Personal Information is affected, you can request a copy of
 our Standard Contractual Clauses by contacting us as set forth in the
 Contact Us section below. 
 
-# Security
+## Security
 
 We take reasonable precautions designed to protect the confidentiality
 and security of Personal Information processed in connection with our
@@ -459,7 +459,7 @@ However, no method of transmission over the Internet or method of
 electronic storage is completely secure, and we cannot guarantee
 absolute security.
 
-# Data Breach Notification
+## Data Breach Notification
 
 If we become aware of a suspected or actual data breach involving
 Personal Information, we will take reasonable steps to investigate,
@@ -473,7 +473,7 @@ relevant customer without undue delay after becoming aware of a personal
 data breach affecting **Customer Content**, so the customer can meet its
 obligations.
 
-# Data Retention
+## Data Retention
 
 We keep Personal Information only for as long as reasonably necessary
 for the purposes described in this Privacy Policy, unless a longer
@@ -536,9 +536,9 @@ For Customer Content and end-user data processed on behalf of customers,
 we retain and delete that data in accordance with the customer’s
 instructions and applicable contract terms, subject to applicable law.
 
-# Your Rights and Choices
+## Your Rights and Choices
 
-## Access, Correction and Deletion
+### Access, Correction and Deletion
 
 You have a right to access, update, correct or edit your **Personal
 Information**, subject to exceptions allowed by law. If you would like
@@ -570,7 +570,7 @@ of certain information (for example, in backups or logs) may persist for
 a limited period as part of routine business continuity and security
 practices.
 
-## Marketing Communications
+### Marketing Communications
 
 You may opt out of receiving promotional and newsletter marketing emails
 by following the opt-out instructions provided in the bottom of those
@@ -579,7 +579,7 @@ receipt. You will continue to receive transaction-related
 emails regarding products or services you have requested and
 administrative communications, such as updates to this Privacy Policy. 
 
-## Complaints 
+### Complaints 
 
 If you have a complaint about how we handle Personal Information, please
 contact us using the details below. We will acknowledge your complaint
@@ -587,13 +587,13 @@ and investigate it, and we will respond within a reasonable time. If you
 are not satisfied with our response, you may contact the Office of the
 Australian Information Commissioner (OAIC) at www.oaic.gov.au.
 
-## California Disclosures
+### California Disclosures
 
 If you are a California resident, you may have additional rights under
 California privacy laws. You can submit a request by emailing
 info@nuclideon.com. If applicable, we will respond as required by law.
 
-# Contact Us
+## Contact Us
 
 If you have questions about this Privacy Policy, or would like to make a
 privacy request, please contact us:
