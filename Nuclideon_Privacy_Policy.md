@@ -1,11 +1,11 @@
 # Nuclideon Privacy Policy
 
-Last updated: March 9th, 2026
+Last updated: March 27, 2026
 
 ## Overview
 
-This Privacy Policy explains how Nuclideon Pty Ltd (“Nuclideon”, “we”,
-“us” or “our”) collects, uses, discloses, stores, and otherwise handles
+This Privacy Policy explains how Nuclideon Pty Ltd ("Nuclideon", "we",
+"us" or "our") collects, uses, discloses, stores, and otherwise handles
 Personal Information when you use our Websites and Services, or interact
 with us (for example, requesting a demo, purchasing a subscription, or
 contacting support).
@@ -14,7 +14,7 @@ contacting support).
 
 We are committed to protecting your privacy and complying with
 applicable privacy laws, including the Australian Privacy Principles
-(APPs) in the Privacy Act 1988 (Cth) (the “Privacy Act”) and, where
+(APPs) in the Privacy Act 1988 (Cth) (the "Privacy Act") and, where
 applicable, the Notifiable Data Breaches (NDB) scheme.
 
 You can learn more about the APPs from the Office of the Australian
@@ -24,7 +24,7 @@ Information Commissioner (OAIC).
 
 We reserve the right to make changes to this Privacy Policy at any time
 and for any reason. We will alert you about any changes by updating the
-“Last updated” date of this Privacy Policy. Any changes or modifications
+"Last updated" date of this Privacy Policy. Any changes or modifications
 will be effective immediately upon posting the updated Privacy Policy on
 the applicable Nuclideon website or service where this policy is made
 available, and you waive the right to receive specific notice of each
@@ -69,7 +69,7 @@ described in the Scope and Controller vs Processor sections below.
 Depending on how you interact with Nuclideon, we may process Personal
 Information as a **controller** (we decide why and how Personal
 Information is processed) or as a **processor/service provider** (we
-process Personal Information on a customer’s instructions).
+process Personal Information on a customer's instructions).
 
 In particular:
 
@@ -81,7 +81,7 @@ In particular:
 - **When we act as a processor/service provider:** when a customer uses
   our services to process Personal Information about their end users,
   employees, or users of **Customer Content**, we process that Personal
-  Information on the customer’s documented instructions. In these cases,
+  Information on the customer's documented instructions. In these cases,
   the customer is typically the controller, and privacy requests
   relating to that customer data should generally be directed to the
   customer.
@@ -133,13 +133,25 @@ a processor (for example, **Customer Content** and end-user data).
 
 - **Single sign-on (SSO) / OIDC identity provider data:** where you sign
   in using an external identity provider (for example, your
-  organisation’s SSO or a third-party login such as Google or Microsoft,
+  organisation's SSO or a third-party login such as Google or Microsoft,
   where enabled), we may receive information from that provider such as
   a unique user identifier, name, email address, and
   authentication-related claims (such as group or role information) in
   order to authenticate you and manage access to the services. **We do
   not receive your password** when you use OIDC/SSO; authentication is
   performed by the identity provider.
+
+- **Information received from third-party sign-in providers:** when you
+  authenticate using a third-party sign-in service (such as Google,
+  Microsoft, or any other supported identity provider), we specifically
+  receive the following categories of information from the provider:
+  your name and display name, your email address, your profile image
+  (if available), and a unique account identifier issued by the
+  provider. We use this information solely to create and maintain your
+  Nuclideon account, to verify your identity, and to personalise your
+  experience within the Services. We do not request access to any
+  additional account data from your identity provider (such as calendar,
+  contacts, or files) beyond what is necessary for authentication.
 
 - **Subscription and billing data:** plan details, invoices, billing
   contact information, and transaction metadata. Payment card details
@@ -158,7 +170,7 @@ a processor (for example, **Customer Content** and end-user data).
 - **Customer Content and end-user data:** **Customer Content** and other
   data uploaded to or generated within the services by customers and
   their authorised users. Where this content includes Personal
-  Information, we generally process it on the customer’s instructions as
+  Information, we generally process it on the customer's instructions as
   a processor/service provider.
 
 ### Additional information
@@ -210,7 +222,7 @@ with e-mail messages, your likes and replies to a post, server log
 files, and any other information about how you interacted with our
 Websites and Services.
 
-We use cookies and similar technologies to operate our Websites and
+We use cookies and similar technologies to operate our Websites and
 Services, to provide essential functionality (such as authentication and
 security), and to understand and improve performance. Where required by
 law, we will ask for your consent before using non-essential cookies
@@ -238,14 +250,14 @@ at info@nuclideon.com).
 - **Performance and Functionality Cookies:** We may use performance and
   functionality cookies to collect information about how you use our
   Websites and Services, for instance, which pages you visit most often,
-  or if you get an error message. These cookies don’t collect personal
+  or if you get an error message. These cookies don't collect personal
   information. However, without such cookies, certain functionalities
   may become unavailable.
 
 - **Analytics Cookies:** Where enabled, we may use analytics tools (such
   as Google Analytics) to help us understand how our Websites and
-  Services are used. We configure analytics to minimise data collection
-  where feasible.
+  Services are used. We configure analytics to minimise data collection
+  where feasible.
 
 - **Internet-based Advertising cookies:** Where enabled, we may use
   marketing pixels (such as the LinkedIn Insight Tag) for campaign
@@ -260,10 +272,10 @@ direct inquiries regarding cookie preferences to info@nuclideon.com.
 
 California law requires that operators of websites and online services
 disclose how they respond to a DNT signal and whether other third
-parties may collect Personal Information about an individual’s online
+parties may collect Personal Information about an individual's online
 activities from their website or online service.
 
-Some browsers offer a “Do Not Track” signal. Because there is no
+Some browsers offer a "Do Not Track" signal. Because there is no
 consistent industry standard for how to interpret these signals, and
 because third-party tools may not respond to them, our Websites and
 Services may not respond to DNT signals. You can manage tracking through
@@ -274,14 +286,14 @@ our cookie settings and your browser/device controls.
 Payment card details are handled by our payment processor(s) (for
 example, Stripe). We do not intentionally store full payment card
 numbers on our systems. We may store billing and transaction records
-(such as invoices, amounts, and payment status) for accounting, tax and
+(such as invoices, amounts, and payment status) for accounting, tax and
 audit purposes.
 
 ### Information from other sources
 
 We may also obtain information about you from other sources
-or retain third party services to operate our Websites and Services and
-help us monitor, collect, analyse and better understand your
+or retain third party services to operate our Websites and Services and
+help us monitor, collect, analyse and better understand your
 interactions with our Websites and Services. These other sources may
 include, without limitation, analytics and advertising partners,
 referral partners, and service providers supporting our business
@@ -317,23 +329,48 @@ We may use Personal Information for the following purposes:
   and Services, including to detect, prevent, and address technical
   issues, fraud, abuse, and security incidents;
 
-- To comply with legal obligations and enforce our terms; 
+- To comply with legal obligations and enforce our terms;
 
 - To manage corporate governance activities such as audits, reporting,
   and business continuity planning.
 
+### Google API Services User Data Policy Compliance
+
+Nuclideon's use and transfer to any other app of information received
+from Google APIs adheres to the
+[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
+including the Limited Use requirements. Specifically:
+
+1. Nuclideon only uses data obtained through Google APIs to provide and
+   improve the Services as described in this Privacy Policy.
+
+2. Nuclideon does not use Google user data for serving advertisements or
+   for any advertising-related purpose.
+
+3. Nuclideon does not allow humans to read Google user data unless:
+   (a) it is necessary to provide the Services and customer support;
+   (b) you have given explicit consent; (c) it is necessary for security
+   purposes (such as investigating a security incident); (d) it is
+   necessary to comply with applicable law; or (e) the data has been
+   aggregated and anonymised and is used for internal operations.
+
+4. Nuclideon does not transfer Google user data to third parties except:
+   (a) as necessary to provide the Services (for example, to our hosting
+   provider); (b) as required by applicable law; or (c) with your
+   explicit prior consent.
+
 ### Legal Bases (EEA/UK Only)
 
-If you are from the European Economic Area (“EEA”), our legal basis for
+If you are from the European Economic Area ("EEA"), our legal basis for
 collecting and using the Personal Information described above will
 depend on the Personal Information concerned and the specific context in
-which we collect it. 
+which we collect it.
 
 However, we will normally collect Personal Information from you only
 where we need the Personal Information to perform a contract with you,
 where the processing is in our legitimate interests and not overridden
 by your data protection interests or fundamental rights and freedoms,
-where we have your consent, or where we have a legal obligation to
+where we have your consent, or where we have a legal obligation to
 collect personal information from you.
 
 If we ask you to provide Personal Information to comply with a legal
@@ -360,6 +397,17 @@ permitted to access Personal Information only as needed to perform
 services for us (or, where applicable, for our customers) consistent
 with this Privacy Policy.
 
+### No Sale of Personal Information
+
+Nuclideon does not sell, rent, or trade your Personal Information to
+third parties for monetary or other valuable consideration. This
+applies to all Personal Information we collect, including information
+obtained through any third-party identity provider or authentication
+service (such as Google, Microsoft, or any other provider we may
+support in the future). We do not use Personal Information obtained
+through authentication services for advertising, data brokering, or
+any purpose unrelated to providing and improving the Services.
+
 ### Subprocessors and Service Providers
 
 **Amazon Web Services (AWS)** is a key subprocessor we use to host and
@@ -379,7 +427,7 @@ We use third-party service providers to help us deliver, operate, and
 secure our Websites and Services (for example, cloud hosting, data
 storage, content delivery, analytics, customer communications, support
 tooling, and payment processing). Where we act as a processor for
-customer data, these providers may act as our “subprocessors”. We take
+customer data, these providers may act as our "subprocessors". We take
 reasonable steps to select and retain providers that maintain
 appropriate security measures and, where required, we enter into
 contractual commitments designed to protect Personal Information (such
@@ -395,7 +443,7 @@ section.
 - **Service Providers:** We employ and contract with people and other
   entities that provide us with certain services, such as hosting,
   maintenance and security of our Websites and Services, and analytics
-  (collectively, our “Service Providers”) to assist in the provision of
+  (collectively, our "Service Providers") to assist in the provision of
   our Websites and Services. We provide these Service Providers with
   only the Personal Information they need to perform their services and
   work closely with them to ensure that your privacy is respected and
@@ -407,38 +455,38 @@ section.
   Information in the event we are sold, acquired, or a majority of our
   business is acquired by a third party. If such a transaction occurs,
   we will take reasonable steps to ensure your Personal
-  Information remains subject to appropriate protections.
+  Information remains subject to appropriate protections.
 
 - **Related companies:** We may also share your Information with our
   related companies for purposes consistent with this Privacy Policy.
 
-- **Legal requests:** We may disclose Personal Information
-  where required or authorised by law (including to respond to lawful
-  requests from courts, regulators or law enforcement). Where permitted,
-  we will notify affected customers or individuals of a legally binding
-  request for disclosure, and we will seek to limit disclosure to what
-  is legally required.
+- **Legal requests:** We may disclose Personal Information
+  where required or authorised by law (including to respond to lawful
+  requests from courts, regulators or law enforcement). Where permitted,
+  we will notify affected customers or individuals of a legally binding
+  request for disclosure, and we will seek to limit disclosure to what
+  is legally required.
 
 ## International Transfers
 
 We may store or process Personal Information in Australia and in other
-countries where we or our service providers operate. Where Personal
-Information is disclosed overseas, we take reasonable steps to ensure
-the overseas recipient handles Personal Information in accordance
-with the Privacy Act (APP 8) or an applicable exception.
+countries where we or our service providers operate. Where Personal
+Information is disclosed overseas, we take reasonable steps to ensure
+the overseas recipient handles Personal Information in accordance
+with the Privacy Act (APP 8) or an applicable exception.
 
 If you are a customer with specific data residency requirements (for
 example, Australian Government customers), please contact us to discuss
 available deployment and support options and any contractual
-commitments regarding storage location.
+commitments regarding storage location.
 
 The European Commission has adopted standard data protection clauses,
 which provide safeguards for Personal Information transferred outside of
 the EEA. We may use Standard Contractual Clauses when transferring
 Personal Information from a country in the EEA to a country outside the
 EEA. If your Personal Information is affected, you can request a copy of
-our Standard Contractual Clauses by contacting us as set forth in the
-Contact Us section below. 
+our Standard Contractual Clauses by contacting us as set forth in the
+Contact Us section below.
 
 ## Security
 
@@ -450,9 +498,9 @@ Any Personal Information that we store is contained behind secured
 networks and is only accessible by a limited number of persons who have
 special access rights to such systems and are required to keep the
 information confidential. We use a combination of technical
-and organisational measures designed to protect Personal Information,
+and organisational measures designed to protect Personal Information,
 including access controls and encryption in transit (for example, TLS)
-and, where appropriate, encryption at rest.
+and, where appropriate, encryption at rest.
 
 We strive to take reasonable measures to protect Personal Information.
 However, no method of transmission over the Internet or method of
@@ -465,7 +513,7 @@ If we become aware of a suspected or actual data breach involving
 Personal Information, we will take reasonable steps to investigate,
 contain and remediate the incident, including taking steps to reduce the
 risk of harm where appropriate. Where required by applicable law
-(including under Australia’s Notifiable Data Breaches (NDB) scheme), we
+(including under Australia's Notifiable Data Breaches (NDB) scheme), we
 will notify affected individuals and/or relevant regulators.
 
 Where we act as a processor/service provider, we will notify the
@@ -477,53 +525,22 @@ obligations.
 
 We keep Personal Information only for as long as reasonably necessary
 for the purposes described in this Privacy Policy, unless a longer
-retention period is required or permitted by law (for example, tax,
+retention period is required or permitted by law (for example, tax,
 accounting, security, and audit requirements).
 
 Typical retention periods (indicative):
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Category </th>
-<th>Indicative retention </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Account profile &amp; admin records </td>
-<td>For the life of the account, and up to 7 years after closure
-where required for legal, audit or dispute purposes </td>
-</tr>
-<tr>
-<td>Billing / invoices / tax records </td>
-<td>Up to 7 years (or longer if required by law) </td>
-</tr>
-<tr>
-<td>Support tickets &amp; communications </td>
-<td>Typically 24 months after ticket closure (or longer where needed for
-safety/security or dispute) </td>
-</tr>
-<tr>
-<td>Security logs / audit logs </td>
-<td>Typically 12–24 months (may be longer for security investigations
-and compliance) </td>
-</tr>
-<tr>
-<td>Marketing leads </td>
-<td>Until you opt out or we determine the data is no longer required for
-marketing purposes </td>
-</tr>
-</tbody>
-</table>
+| Category | Indicative retention |
+|---|---|
+| Account profile & admin records | For the life of the account, and up to 7 years after closure where required for legal, audit or dispute purposes |
+| Billing / invoices / tax records | Up to 7 years (or longer if required by law) |
+| Support tickets & communications | Typically 24 months after ticket closure (or longer where needed for safety/security or dispute) |
+| Security logs / audit logs | Typically 12–24 months (may be longer for security investigations and compliance) |
+| Marketing leads | Until you opt out or we determine the data is no longer required for marketing purposes |
 
 Where we act as a processor on behalf of a customer, we retain and
 process Personal Information in accordance with our contract with the
-customer and the customer’s documented instructions, subject to
+customer and the customer's documented instructions, subject to
 applicable law.
 
 When we no longer have a legitimate business need to process Personal
@@ -533,7 +550,7 @@ practices (for example, limited retention in backups or logs for a
 period of time).
 
 For Customer Content and end-user data processed on behalf of customers,
-we retain and delete that data in accordance with the customer’s
+we retain and delete that data in accordance with the customer's
 instructions and applicable contract terms, subject to applicable law.
 
 ## Your Rights and Choices
@@ -545,11 +562,11 @@ Information**, subject to exceptions allowed by law. If you would like
 to do so, please let us know via the Contact Us section below. You may
 be required to put your request in writing for security reasons. We will
 respond to access and correction requests within a reasonable time and,
-where practicable, within 30 days. We may need to verify your identity
+where practicable, within 30 days. We may need to verify your identity
 before processing a request. If you would like to export Personal
 Information we control, contact us at info@nuclideon.com. We will
 provide export information within a reasonable time, subject to
-verification and legal exceptions.
+verification and legal exceptions.
 
 If you are in the EEA/UK (or another jurisdiction with similar rights),
 you may have additional rights such as deletion/erasure, restriction,
@@ -573,13 +590,13 @@ practices.
 ### Marketing Communications
 
 You may opt out of receiving promotional and newsletter marketing emails
-by following the opt-out instructions provided in the bottom of those
+by following the opt-out instructions provided in the bottom of those
 emails. We will process your request within a reasonable time after
 receipt. You will continue to receive transaction-related
-emails regarding products or services you have requested and
-administrative communications, such as updates to this Privacy Policy. 
+emails regarding products or services you have requested and
+administrative communications, such as updates to this Privacy Policy.
 
-### Complaints 
+### Complaints
 
 If you have a complaint about how we handle Personal Information, please
 contact us using the details below. We will acknowledge your complaint
@@ -589,8 +606,8 @@ Australian Information Commissioner (OAIC) at www.oaic.gov.au.
 
 ### California Disclosures
 
-If you are a California resident, you may have additional rights under
-California privacy laws. You can submit a request by emailing
+If you are a California resident, you may have additional rights under
+California privacy laws. You can submit a request by emailing
 info@nuclideon.com. If applicable, we will respond as required by law.
 
 ## Contact Us
