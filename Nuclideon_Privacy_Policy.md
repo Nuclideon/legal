@@ -1,6 +1,7 @@
 # Nuclideon Privacy Policy
 
-Last updated: March 27, 2026
+**Effective Date:** March 27, 2026  
+**Last updated**: April 7, 2026  
 
 ## Overview
 
@@ -615,4 +616,7 @@ info@nuclideon.com. If applicable, we will respond as required by law.
 If you have questions about this Privacy Policy, or would like to make a
 privacy request, please contact us:
 
-- **Email:** info@nuclideon.com
+**Nuclideon Pty Ltd**  
+ACN 681 220 548  
+Email: info@nuclideon.com  
+Website: [https://nuclideon.com](https://nuclideon.com)

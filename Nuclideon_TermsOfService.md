@@ -1,8 +1,6 @@
-# Nuclideon Pty Ltd — Terms of Service
+# Nuclideon Terms of Service
 
-**ACN 681 220 548**
-
-**Effective Date:** March 27, 2026
+**Effective Date:** March 27, 2026  
 **Last Updated:** April 7, 2026
 
 ---
@@ -407,11 +405,7 @@ Nuclideon will provide reasonable cooperation and assistance to the Customer in 
 
 For questions about these Terms, please contact:
 
-**Nuclideon Pty Ltd**
-ACN 681 220 548
-Email: info@nuclideon.com
+**Nuclideon Pty Ltd**  
+ACN 681 220 548  
+Email: info@nuclideon.com  
 Website: [https://nuclideon.com](https://nuclideon.com)
-
----
-
-*These Terms of Service were last updated on April 7, 2026.*
