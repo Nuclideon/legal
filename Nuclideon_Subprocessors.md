@@ -1,4 +1,4 @@
-# Subprocessor List
+# Nuclideon Subprocessor List
 
 **Last updated:** April 7, 2026
 
@@ -22,8 +22,8 @@ For questions about our subprocessors or data handling practices, contact us at 
 
 | Subprocessor | Purpose | Personal Data Processed | Entity Location | Data Residency | Safeguards |
 |---|---|---|---|---|---|
-| Microsoft Corporation | Email, calendar, and office productivity (Microsoft 365) | Names, email addresses, message content, calendar data | United States | Australia (Australia Geography) | SCCs (GDPR); data residency within Australia |
-| Microsoft Corporation (Copilot for Microsoft 365) | AI-assisted processing of M365 content including emails and documents | Names, email addresses, message content, document content | United States | Australia (Australia Geography) | SCCs (GDPR); data residency within Australia. |
+| Microsoft Corporation (Microsoft 365) | Email, calendar, and office productivity | Names, email addresses, message content, calendar data | United States | Australia (Australia Geography) | SCCs (GDPR); data residency within Australia |
+| Microsoft Corporation (Copilot for Microsoft 365) | AI-assisted processing of M365 content including emails and documents | Names, email addresses, message content, document content | United States | Australia (Australia Geography) | SCCs (GDPR); data residency within Australia |
 
 ---
 
@@ -31,15 +31,7 @@ For questions about our subprocessors or data handling practices, contact us at 
 
 | Subprocessor | Purpose | Personal Data Processed | Entity Location | Data Residency | Safeguards |
 |---|---|---|---|---|---|
-| Microsoft Corporation | Ticketing, feedback management, and feature tracking (Azure DevOps) | Names, email addresses, user-submitted feedback and issue content | United States | Australia (Australia Geography) | SCCs (GDPR); data residency within Australia |
-
----
-
-## Analytics
-
-| Subprocessor | Purpose | Personal Data Processed | Entity Location | Data Residency | Safeguards |
-|---|---|---|---|---|---|
-| Google LLC | Website analytics and usage reporting (Google Analytics) | IP addresses (anonymised), device/browser data, behavioural usage data | United States | United States | SCCs (GDPR); APP 8.1 overseas recipient disclosure |
+| Microsoft Corporation (Azure DevOps) | Ticketing, feedback management, and feature tracking | Names, email addresses, user-submitted feedback and issue content | United States | Australia (Australia Geography) | SCCs (GDPR); data residency within Australia |
 
 ---
 
